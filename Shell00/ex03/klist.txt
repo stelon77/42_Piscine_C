@@ -1,0 +1,5 @@
+Credentials cache: API:5818D88C-2627-4C9F-BA4F-377730E03D46
+        Principal: lcoiffie@42.FR
+
+  Issued                Expires               Principal
+Aug 26 13:47:36 2019  Sep  2 13:47:21 2019  krbtgt/42.FR@42.FR
